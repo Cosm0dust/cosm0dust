@@ -37,12 +37,15 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 
 #### Back-end
 ![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat-square&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/NestJS-Framework-informational?style=flat-square&logo=insomnia&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ExpressJS-Framework-informational?style=flat-square&logo=insomnia&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Strapi-CRM-informational?style=flat-square&logo=strapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GraphQL-API-informational?style=flat-square&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Apollo-API-informational?style=flat-square&logo=apollographql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat-square&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MongoDB-Database-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Insomnia-API_Design-informational?style=flat-square&logo=insomnia&logoColor=white&color=2bbc8a)
+
 
 #### Integrations
 ![](https://img.shields.io/badge/Stripe-Payments-informational?style=flat-square&logo=stripe&logoColor=white&color=2bbc8a)
@@ -58,10 +61,12 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/Vault-Secrets_Storage-informational?style=flat-square&logo=vault&logoColor=white&color=2bbc8a)
 
 #### DevOps
+![](https://img.shields.io/badge/Gitlab_AWS-informational?style=flat-square&logoColor=white&color=2bbc8a)  
 ![](https://img.shields.io/badge/Github-Repository-informational?style=flat-square&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Github_Actions-CI|CD-informational?style=flat-square&logo=githubactions&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Gitlab-Repository-informational?style=flat-square&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Gitlab_CI-CI|CD-informational?style=flat-square&logoColor=white&color=2bbc8a)  
+
 
 ![](https://img.shields.io/badge/Terraform-IaaC-informational?style=flat-square&logo=terraform&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Docker-Containerisation-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)

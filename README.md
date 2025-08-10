@@ -75,13 +75,3 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/AWS-Cloud-informational?style=flat-square&logo=amazonaws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Azure-Cloud-informational?style=flat-square&logo=microsoftazure&logoColor=white&color=2bbc8a)
 
-
-## About bn digital
-
-BN Digital is a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. We are designers and engineers who make others' lives happier.
-
-Please feel free to reach out to us!
-[https://bndigital.co](https://bndigital.co)
-[Dribbble](https://dribbble.com/bndigital)
-[Behance](https://www.behance.net/bn_digital)
-[Linkedin](https://www.linkedin.com/company/bndigital-llc)
